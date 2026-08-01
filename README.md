@@ -2,9 +2,7 @@
 
 Senior Data and AI Engineer based in Pune, India, specializing in building intelligent software systems, Knowledge Graphs, and GraphRAG applications.
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![LeetCode](https://shields.io)](https://leetcode.com)
-[![Email](https://shields.io)](mailto:satishphale1013@gmail.com)
+Email: satishphale1013@gmail.com
 
 ---
 
