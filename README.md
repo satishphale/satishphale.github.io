@@ -3,6 +3,7 @@
 Senior Data and AI Engineer based in Pune, India, specializing in building intelligent software systems, Knowledge Graphs, and GraphRAG applications.
 
 Email: satishphale1013@gmail.com
+LinkedIn: https://www.linkedin.com/in/satish-p-6a38b0204/
 
 ---
 
@@ -50,6 +51,16 @@ I am a passionate software engineer with extensive experience engineering high-p
 
 - **M.E. in Computer Science** — Birla Institute of Technology and Sciences, Pilani (Oct 2020 - June 2022) | *GPA: 8.61 / 10.00*
 - **B.E. in Computer Science** — Savitribai Phule Pune University (Aug 2013 - June 2017) | *GPA: 7.10 / 10.00*
+
+---
+
+## 🔬 Academic Research & Master Thesis
+
+### **Automatic Code Commenting Using Deep Learning** | *BITS Pilani*
+* **Core Objective:** Research-focused project implementing a **DeepCom** (Deep Code Comment Generation) paradigm to automatically synthesize meaningful, natural language comments from source code snippets.
+* **Architecture Design:** Built an **Encoder-Decoder neural architecture embedded with Attention Mechanisms** to accurately translate syntax structures into context-rich text documentation.
+* **Semantic Parsing:** Deployed **Abstract Syntax Tree (AST) parsing** and token sequence extraction to systematically extract structural and semantic code hierarchies.
+* **Evaluation Framework:** Trained and benchmarked validation models against massive open-source codebases, quantifying generative accuracy through **BLEU score models** and semantic similarity metrics.
 
 ---
 
